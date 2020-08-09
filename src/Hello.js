@@ -5,8 +5,8 @@ class Hello extends Component {
   render() {
     return (
       <div>
-        <h1> Hello World hello asdf asdfs</h1>
-        <p> Welcome to React </p>
+        <h1> Hello World hello alan</h1>
+        <p> Welcome to React Ethan </p>
       </div>
     );
   }
