@@ -13,9 +13,9 @@ export const robots = [
   },
   {
     id: 3,
-    name: "",
-    username: "",
-    quote: "",
+    name: "Master Oogway",
+    username: "turtle",
+    quote: "there are no accidents",
   },
   {
     id: 4,
