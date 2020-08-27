@@ -22,12 +22,12 @@ var robots = [{
 }, {
   id: 4,
   name: "Weebjay Reddy",
-  username: "",
+  username: "god",
   quote: "maysun keeps stealing my kills"
 }, {
   id: 5,
   name: "Maysun",
-  username: "",
+  username: "yahyeet",
   quote: "let's run it down"
 }];
 exports.robots = robots;
