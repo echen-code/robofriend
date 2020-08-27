@@ -19,14 +19,14 @@ export const robots = [
   },
   {
     id: 4,
-    name: "",
+    name: "Weebjay Reddy",
     username: "",
-    quote: "",
+    quote: "maysun keeps stealing my kills",
   },
   {
     id: 5,
-    name: "",
+    name: "Maysun",
     username: "",
-    quote: "",
+    quote: "let's run it down",
   },
 ];
