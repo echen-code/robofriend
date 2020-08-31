@@ -1,5 +1,4 @@
-export const robots = [
-  {
+export const robots = [{
     id: 1,
     name: "Meow Zedong",
     username: "kommunist",
@@ -25,8 +24,8 @@ export const robots = [
   },
   {
     id: 5,
-    name: "Maysun",
+    name: "Alan WOOOO",
     username: "yahyeet",
-    quote: "let's run it down",
+    quote: "don't say so much",
   },
 ];
